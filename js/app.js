@@ -1,0 +1,1 @@
+var customSearch;(a=>{function t(t){t.preventDefault();var o=a(this),t=t.data&&t.data.correction||0;a("html, body").animate({scrollTop:a(o.attr("href")).offset().top-t},400)}a(function(){a(".post-list, #footer, #page-nav").addClass("show"),a(".window-nav, .go-comment").on("click",t),setTimeout(function(){a("#loading-bar-wrapper").fadeOut(500)},300)})})(jQuery);
