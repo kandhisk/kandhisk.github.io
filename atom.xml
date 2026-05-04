@@ -9,7 +9,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   <rights>All rights reserved 2026, John Doe</rights>
   <title>Hexo</title>
-  <updated>2026-05-03T12:02:34.812Z</updated>
+  <updated>2026-05-04T03:43:45.321Z</updated>
   <entry>
     <author>
       <name>John Doe</name>
@@ -25,7 +25,7 @@
       <![CDATA[<p>尝试</p>]]>
     </summary>
     <title>test</title>
-    <updated>2026-05-03T12:02:34.812Z</updated>
+    <updated>2026-05-04T03:43:45.321Z</updated>
   </entry>
   <entry>
     <author>
